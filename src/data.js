@@ -37,7 +37,7 @@ export const animals = [
   {
     name: 'Samuel the Sheep',
     type: 'sheep',
-    says: "Just because we're sheep, it doesn't mean we have to follow. Think for yourselves.",
+    says: 'Just because we\'re sheep, it doesn\'t mean we have to follow. Think for yourselves.',
     top: '225px',
     left: '20%',
   },
